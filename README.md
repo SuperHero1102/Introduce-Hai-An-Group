@@ -3,7 +3,7 @@ thuộc các lĩnh vực tài chính đầu tư, giải trí, ứng dụng công
 luôn hỗ trợ 24/7. Hướng tới vì một việt nam phát triển hùng cường !
 
 
-Dưới đây là các sản phầm mà Hải An Group đã và đang triển khai: 
+Dưới đây là các sản phầm, các ứng dụng mà Hải An Group đã và đang triển khai: 
 1. Dựa án chuyển đôi dữ liệu văn phòng pdf to word chuyên nghiệp với công nghệ quyết OCR tránh làm lỗi font chữ các biểu thức công thức cho tài liệu hoạt động trên cloude service
 Link ứng dụng miễn phí: https://pdf-giao-an.onrender.com/ (tác giả tranngocsds@gmail.com - nền tảng phát triển Google AI Studio)
 
@@ -21,6 +21,9 @@ Link ứng dụng: https://ng-d-ng-ti-ng-anh-1-12.ai.studio/  (tác giả tranng
 5. Ứng dụng luyện nói tiếng anh với AI như người bản sứ chuẩn Anh Mỹ.
 Link ứng dụng miễng phí https://sayflow-wkummqvu.manus.space/   (tác giả tranngoctk112@gmail.com - nền tảng phát triển Manus)
 
-6. Ứng dụng giải trí xem phim nghe nhạc dưới nền không quảng cáo trên youtobe Đang triển khai
+6. Trợ lý AI ASSISTANT cho doanh nghiệp vừa và nhỏ - áp dụng triển khai với hạ tầng phần cứng thiết bị với chi phí thấp nhất cho doanh nghiệp. (đang áp dụng thử nghiệp tại SAMSUNG SDSV Việt Nam)
+(Quan tâm vui lòng liên hệ 0344535603 email tranngocsds@gmail.com để được tư vấn hỗ trợ phát triển)
+   
+7. Ứng dụng giải trí xem phim nghe nhạc dưới nền không quảng cáo trên youtube Đang triển khai
 
-7. Ứng dụng tự động hóa công việc (AutoTask + Kết hợp giải pháp tự động hóa doanh nghiệp AutoProccess) Đang triển khai
+8. Ứng dụng tự động hóa công việc (AutoTask + Kết hợp giải pháp tự động hóa doanh nghiệp AutoProccess) Đang triển khai
