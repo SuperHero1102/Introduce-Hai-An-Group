@@ -24,6 +24,7 @@ Link ứng dụng miễng phí https://sayflow-wkummqvu.manus.space/   (tác gi�
 6. Trợ lý AI ASSISTANT cho doanh nghiệp vừa và nhỏ - áp dụng triển khai với hạ tầng phần cứng thiết bị với chi phí thấp nhất cho doanh nghiệp. (đang áp dụng thử nghiệp tại SAMSUNG SDSV Việt Nam)
 (Quan tâm vui lòng liên hệ 0344535603 email tranngocsds@gmail.com để được tư vấn hỗ trợ phát triển)
    
-7. Ứng dụng giải trí xem phim nghe nhạc dưới nền không quảng cáo trên youtube Đang triển khai
+7. Ứng dụng giải trí xem phim nghe nhạc dưới nền không quảng cáo trên youtube.
+Link ứng dụng: https://musicvip.ai.studio/ (tác giả tranngoctk112@gmail.com - nền tảng phát triển AI Studio)
 
 8. Ứng dụng tự động hóa công việc (AutoTask + Kết hợp giải pháp tự động hóa doanh nghiệp AutoProccess) Đang triển khai
